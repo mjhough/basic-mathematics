@@ -30,7 +30,7 @@ Example Questions:
   ## Solving Inequalities
   1. The same quantity can be added to, or subtracted from, both sides of the inequality.
   2. Both sides of the inequality can be multiplied by or divided by the same <strong>positive</strong> quantity.
-  3. If both sides are multiplied/divided by the same <strong>negative</strong>quantity, then the inequality must be reversed ($<$ becomes $>$ etc)
+  3. If both sides are multiplied/divided by the same <strong>negative</strong> quantity, then the inequality must be reversed ($<$ becomes $>$ etc)
 
   Example:
   $-3x + 2 \le 6 - x$
