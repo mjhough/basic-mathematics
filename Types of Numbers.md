@@ -1,22 +1,26 @@
 # Types of Numbers
 
-### $\mathbb{N}$ - Natural Numbers
-- The number 1 to any other positive integer.
-- Eg. 1 - 999,999,999
+![number-system-2.png](http://www.allmathtricks.com/wp-content/uploads/2017/08/number-system-2.png)
 
-### $\mathbb{Z}$ - Integers
-- Negative numbers, 0, and positive numbers.
-- Eg. -2, -1, 0, 1, 2
+## Real Numbers
+- Contain the below number subsets:
 
-### $\mathbb{Q}$ - Rational Numbers
-- Include integers and...
-- Fractions and decimals.
-- Can be recurring, eg. 3.3333..., or can terminate
-- Eg. $\frac{1}{2}$ or 0.5
+- #### Natural numbers
+  - Denoted $\mathbb{N}$, are positive counting numbers
+  - Example: $\mathbb{N}=\{1,2,3,4...\}$
+  - $0\notin\mathbb{N}$
 
-### $\mathbb{R}$ \ $\mathbb{Q}$ - Irrational Numbers
-- Go on forever with no pattern.
-- Eg. $\Pi$ or $\sqrt{2}$
+- #### Integers
+  - Denoted $\mathbb{Z}$, are positive and negative whole numbers and zero
+  - Example: $\mathbb{Z}=\{...,-5,-4,-3,-2,-1,0,1,2,3,4,5...\}$ 
 
-## $\mathbb{R}$ - Real Numbers
-- Rational numbers + irrational numbers
+- #### Rational numbers
+  - Denoted $\mathbb{Q}$, are the real numbers that can be represented in the form $\frac{a}{b}$, where $a$ and $b$ are integers and $b\neq0$
+  - In decimal form, each rational number is a terminating or repeating decimal, e.g. $0.272727$ or $0.33333333$
+
+- #### Irrational numbers
+  - Denoted $\overline{\mathbb{Q}}$, are the real numbers that are not rational.
+  - In decimal form, each irrational number is a non-terminating, non-repeating decimal, e.g. $\sqrt{2}$
+
+- #### Complex (or imaginary) numbers
+  - $\sqrt{-1}$ etc
